@@ -1,0 +1,17 @@
+.form-item {
+  margin: 1em;
+}
+
+.form-header {
+  text-align: center;
+  font: normal normal normal 16px/16px sans-serif;
+  letter-spacing: 0px;
+  color: #a4a4a4;
+  opacity: 1;
+}
+
+.results-container {
+  border-top: 1px solid #c10708;
+  opacity: 1;
+  padding-top: 3em;
+}
